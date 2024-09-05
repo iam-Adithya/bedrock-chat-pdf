@@ -15,7 +15,7 @@ We will build a CHATBOT like application with AWS Amazon Bedrock, docker, python
     - The PDF text is split into chunks
     - Using the Amazon Titan Embedding Model, create the vector representation of the chunks
     - Using FAISS, save the vector index locally
-    - Upload the index to Amazon S3 bucket (You can use other vector stores like OpenSearch, Pinecone, PgVector etc., but for this demo, I chose cost effective S3)
+    - Upload the index to Amazon S3 bucket (You can use other vector stores like OpenSearch, Pinecone, PgVector etc.,I chose cost effective S3)
 
 ### Docker Commands:
 
